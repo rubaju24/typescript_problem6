@@ -13,4 +13,4 @@ const largestRectangleAreaBruteForce = (heights: number[]): number => {
   }
   return maxArea;
 };
-console.log(largestRectangleAreaBruteForce([6, 2, 5, 4, 5, 1, 6, 2]));
+console.log(largestRectangleAreaBruteForce([6, 2, 5, 4, 5, 1, 6]));
