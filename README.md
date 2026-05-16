@@ -1,0 +1,2 @@
+# typescript_problem6
+LargestRectangleAreaBruteForce
